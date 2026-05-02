@@ -30,7 +30,7 @@ O projeto foi construído "do zero", sem o uso de frameworks, para demonstrar o 
 
 1. Clone este repositório:
    ```bash
-   git clone git clone https://github.com/rehpinheirooo/rick-and-morty-api-vanilla.git
+   git clone https://github.com/rehpinheirooo/rick-and-morty-api-vanilla.git
 
 2. Abra a pasta do projeto.
 
